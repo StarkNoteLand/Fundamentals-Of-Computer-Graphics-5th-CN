@@ -3,21 +3,11 @@
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-hover-editor",
-  "calendar",
-  "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-linter",
-  "obsidian-charts",
   "auto-card-link",
   "obsidian-auto-link-title",
-  "obsidian-tasks-plugin",
   "sample-plugin",
-  "obsidian-plantuml",
-  "pomodoro-timer",
   "obsidian-icon-folder",
-  "editing-toolbar",
-  "obsidian-markmind",
-  "obsidian-image-auto-upload-plugin",
-  "obsidian-full-calendar",
-  "obsidian-dictionary-plugin"
+  "editing-toolbar"
 ]
